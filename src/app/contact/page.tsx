@@ -1,5 +1,4 @@
 import { getContact } from "@/lib/content";
-import { MapEmbed } from "@/components/map-embed";
 import { ContactForm } from "@/components/contact-form";
 
 export default function ContactPage() {
@@ -12,8 +11,6 @@ export default function ContactPage() {
           Contact
         </h2>
       </header>
-
-      <MapEmbed src={contact.mapEmbedUrl} />
 
       <ContactForm contact={contact} />
     </>
