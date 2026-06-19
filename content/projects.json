@@ -1,0 +1,41 @@
+{
+  "categories": ["Backend", "Full Stack", "Open Source"],
+  "projects": [
+    {
+      "title": "Rental Marketplace",
+      "categories": ["Full Stack"],
+      "image": "/images/rental.png",
+      "url": "https://rental-production-03cd.up.railway.app",
+      "slug": "rental-marketplace",
+      "excerpt": "A full-stack rental marketplace with hybrid semantic search, Stripe payments, and JWT-based authentication built with FastAPI and React.",
+      "description": "A full-stack rental marketplace built with **FastAPI** and **React** featuring JWT-based authentication, role-based authorization, listing management, booking workflows, and payment processing.\n\n### Features\n- Hybrid semantic search engine with PostgreSQL FTS, pgvector (HNSW), OpenAI embeddings, and PostGIS\n- Stripe Payments integration with server-side payment verification via secure webhook processing\n- Rate limiting, caching, and automated integration testing using Testcontainers\n\n### Technologies\nPython, TypeScript, FastAPI, React.js, PostgreSQL, PostGIS, Cloudinary, Stripe, Redis"
+    },
+    {
+      "title": "College ERP",
+      "categories": ["Full Stack"],
+      "image": "/images/cms.png",
+      "url": "https://college-system.up.railway.app/",
+      "slug": "college-erp",
+      "excerpt": "A full-stack ERP platform supporting academic, administrative, and user management workflows with OCR-powered registration.",
+      "description": "A full-stack ERP platform built using Python, Sanic, and PostgreSQL supporting academic, administrative, and user management workflows.\n\n### Features\n- Automated leave management, fee payment, and receipt generation workflows\n- OCR-powered student registration using Aadhaar and marksheet extraction\n- Reduced manual processing by 60% and onboarding time by 70%\n\n### Technologies\nPython, Sanic, React.js, PostgreSQL, MinIO"
+    },
+    {
+      "title": "Task Management API",
+      "categories": ["Backend"],
+      "image": "/images/task.png",
+      "url": "https://github.com/shah-dhwanil/tasker",
+      "slug": "task-management-api",
+      "excerpt": "A task management REST API in Go using Echo and PostgreSQL with New Relic APM and comprehensive test coverage.",
+      "description": "A task management REST API built in Go using Echo and PostgreSQL, supporting CRUD operations, filtering, pagination, and full-text search.\n\n### Features\n- New Relic APM integration, structured logging, and distributed tracing\n- Comprehensive unit and integration tests across API, service, and repository layers\n\n### Technologies\nGolang, Echo, PostgreSQL, Clerk, New Relic"
+    },
+    {
+      "title": "Django-CryptographicFields",
+      "categories": ["Open Source"],
+      "image": "/images/django.png",
+      "url": "https://pypi.org/project/Django-CryptographicFields/",
+      "slug": "django-cryptographicfields",
+      "excerpt": "A cryptographic field package for Django ORM with 65K+ downloads on PyPI.",
+      "description": "A cryptographic field package for Django ORM that provides transparent encryption/decryption at the field level.\n\n### Features\n- Transparent field-level encryption for Django models\n- Easy integration with existing Django projects\n\n### Technologies\nPython, Django, Cryptography"
+    }
+  ]
+}

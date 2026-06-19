@@ -1,0 +1,22 @@
+{
+  "name": "Dhwanil Shah",
+  "title": "Backend Developer",
+  "avatar": "/images/my-avatar.png",
+  "email": "itzdhwanil@gmail.com",
+  "phone": "",
+  "linkedin": "https://linkedin.com/in/shah-dhwanil",
+  "linkedinHandle": "shah-dhwanil",
+  "location": "Anand, Gujarat, India",
+  "socials": [
+    {
+      "platform": "linkedin",
+      "url": "https://linkedin.com/in/shah-dhwanil",
+      "icon": "linkedin"
+    },
+    {
+      "platform": "github",
+      "url": "https://github.com/shah-dhwanil",
+      "icon": "github"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "bio": "I'm a **Backend Developer** from Anand, Gujarat, India, specializing in building scalable backend systems, REST APIs, and distributed services. I enjoy architecting robust server-side solutions, designing efficient databases, and automating workflows.\n\nMy expertise lies in Python and Go backend development with frameworks like FastAPI, Flask, and Echo. I have hands-on experience with event-driven architectures using Kafka and RabbitMQ, cloud infrastructure on AWS, and containerization with Docker. Currently pursuing BTech in Computer Science & Design from GCET while building production-grade systems.",
+  "services": [
+    {
+      "title": "Backend Development",
+      "description": "Building scalable REST APIs and microservices using Python, Go, FastAPI, Flask, and Echo.",
+      "icon": "/images/icon-dev.svg"
+    },
+    {
+      "title": "Database Design",
+      "description": "Designing and optimizing relational and NoSQL databases — PostgreSQL, MySQL, MongoDB, Redis.",
+      "icon": "/images/icon-design.svg"
+    },
+    {
+      "title": "Cloud & DevOps",
+      "description": "Deploying and managing applications on AWS with Docker, CI/CD pipelines, and GitHub Actions.",
+      "icon": "/images/icon-app.svg"
+    },
+    {
+      "title": "Event-Driven Systems",
+      "description": "Building real-time data pipelines and messaging systems using Kafka and RabbitMQ.",
+      "icon": "/images/icon-photo.svg"
+    }
+  ]
+}

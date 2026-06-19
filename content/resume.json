@@ -1,0 +1,42 @@
+{
+  "education": [
+    {
+      "title": "Bachelor of Technology in Computer Science & Design",
+      "institution": "G H Patel College Of Engineering & Technology",
+      "period": "Aug 2023 — July 2027",
+      "description": "Pursuing BTech in Computer Science & Design with a GPA of 9.52/10, focusing on software engineering, distributed systems, and backend architecture.",
+      "slug": "btech-gcet"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Backend Developer Intern",
+      "company": "HeyOrum",
+      "period": "May 2026 — Present",
+      "summary": "Engineering event-driven transaction processing systems, Razorpay subscription integrations, and scalable notification services.",
+      "description": "Engineering event-driven transaction processing systems, Razorpay subscription integrations, and scalable notification services.\n\n### Key Responsibilities\n- Engineered and deployed end-to-end Razorpay Subscription integration, automating recurring billing, webhook processing, and reconciliation\n- Built an event-driven transaction processing pipeline using Kafka and RabbitMQ for real-time SMS transaction ingestion\n- Designed and implemented a scalable notification system using Firebase Cloud Messaging\n\n### Technologies\nPython, Flask, MongoDB, Redis, RabbitMQ, Kafka, Sentry",
+      "slug": "heyorum"
+    },
+    {
+      "title": "Founding Backend Developer",
+      "company": "Japaate",
+      "period": "Dec 2025 — Mar 2026",
+      "summary": "Architected a multi-tenant backend platform with schema-per-tenant isolation, RBAC, and CI/CD automation.",
+      "description": "Architected a multi-tenant backend platform with schema-per-tenant isolation, RBAC, and CI/CD automation.\n\n### Key Responsibilities\n- Architected a schema-per-tenant multi-tenant backend using FastAPI and PostgreSQL ensuring tenant isolation\n- Implemented JWT-based RBAC supporting tenant-aware authorization across organizations\n- Built a configuration-driven document management platform on Amazon S3 with RBAC, MIME validation, and archival workflows\n- Automated CI/CD pipelines using Docker, GitHub Actions, and AWS ECR reducing deployment time by 90%\n- Developed a multi-agent AI system for task automation, business analytics, and recommendation generation\n\n### Technologies\nPython, FastAPI, PostgreSQL, Redis, DynamoDB, LangChain, LangGraph, PyTest, Docker, AWS",
+      "slug": "japaate"
+    }
+  ],
+  "skills": [
+    { "name": "Python", "level": 90 },
+    { "name": "Go", "level": 78 },
+    { "name": "Java", "level": 70 },
+    { "name": "FastAPI", "level": 88 },
+    { "name": "Flask", "level": 82 },
+    { "name": "PostgreSQL", "level": 85 },
+    { "name": "MongoDB", "level": 75 },
+    { "name": "Redis", "level": 75 },
+    { "name": "Docker", "level": 80 },
+    { "name": "AWS", "level": 75 },
+    { "name": "Git", "level": 85 }
+  ]
+}
