@@ -1,4 +1,13 @@
 {
   "posts": [
+    {
+      "title": "Coming Soon",
+      "slug": "coming-soon",
+      "category": "General",
+      "date": "2026-06-19",
+      "image": "/images/blog-placeholder.jpg",
+      "url": "",
+      "body": "Blog post coming soon."
+    }
   ]
 }
